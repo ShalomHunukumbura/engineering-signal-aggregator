@@ -11,4 +11,6 @@ dependencies = [
   "psycopg[binary]",
   "pydantic",
   "python-dotenv",
+  "alembic>=1.18.0",
+  "httpx>=0.28.1",
 ]
